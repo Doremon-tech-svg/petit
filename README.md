@@ -1,4 +1,4 @@
-# 🌐 <YOUR_NAME> — Personal Portfolio
+# 🌐 DIVYANK RICHHARIYA — Personal Portfolio
 
 Welcome to the source code for my personal developer portfolio. This site showcases my projects, skills, experience, and ways to get in touch with me.
 
@@ -170,11 +170,11 @@ Use for plain HTML/CSS/JS projects.
 
 ## 📬 Contact
 
-**Name:** <YOUR_NAME>
+**Name:** Divyank Richhariya
 
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* Email: [richhariyadivyank1@gmail.com](mailto:richhariyadivyank1@gmail.com)
 * LinkedIn: [https://linkedin.com/in/](https://linkedin.com/in/)<your-handle>
-* GitHub: [https://github.com/](https://github.com/)<your-username>
+* GitHub: [https://github.com/](https://github.com/Doremon-tech-svg)Doremon-tech-sbg
 * Portfolio: [https://your-portfolio-url.com](https://your-portfolio-url.com)
 
 ---
